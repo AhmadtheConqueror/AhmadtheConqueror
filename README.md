@@ -3,6 +3,8 @@
 <a href="#">System Analyst</a>
 </h1>
 
+<h3>🛠️ Tech Stack & Skills</h3>
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -19,28 +21,28 @@
       <h3>Inventory Management System</h3>
       <p>Flask-based inventory system for managing products, sales, expenses, debts, customers, receipts, and reports.</p>
       <p>Includes product tracking, cart checkout, invoice generation, financial reports, and database persistence.</p>
-      <a href="https://github.com/AhmadtheConqueror/Drink-Inventory" target="_blank">🔗 View Repository</a>
+      <p><b>Repository:</b><br/>https://github.com/AhmadtheConqueror/Drink-Inventory</p>
     </td>
     <td width="33%">
       <h3>University Clearance System</h3>
       <p>A web-based clearance portal for graduating students.</p>
       <p>Supports student registration, sequential departmental approvals, staff dashboards, clearance progress tracking, and final clearance form generation.</p>
-      <a href="YOUR_CLEARANCE_SYSTEM_LINK_HERE" target="_blank">🔗 View Repository</a>
+      <p><b>Repository:</b><br/>YOUR_CLEARANCE_SYSTEM_LINK_HERE</p>
     </td>
     <td width="33%">
       <h3>Job CV / Job Matching Application</h3>
       <p>A full-stack web application focused on user authentication, profile management, and job matching features.</p>
       <p>Designed to help users create profiles and explore job opportunities through a clean and responsive interface.</p>
-      <a href="https://github.com/AhmadtheConqueror/Job-Matcher" target="_blank">🔗 View Repository</a>
+      <p><b>Repository:</b><br/>https://github.com/AhmadtheConqueror/Job-Matcher</p>
     </td>
   </tr>
 </table>
 
 <h2>🧩 C# (.NET Projects)</h2>
 
-- [Project Placeholder 1](#)
-- [Project Placeholder 2](#)
-- [Project Placeholder 3](#)
+- Project Placeholder 1  
+- Project Placeholder 2  
+- Project Placeholder 3  
 
 <h2>📊 System Analysis & Design</h2>
 
@@ -68,25 +70,25 @@
 <h2>🤳 Connect with me</h2>
 
 <a href="https://www.linkedin.com/in/ahmad-isah-bello-142214283">
-  <img align="left" alt="Ahmad | LinkedIn" width="32px"
+  <img align="left" width="32px"
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
   style="background-color:white; padding:6px; border-radius:8px;" />
 </a>
 
 <a href="https://github.com/AhmadtheConqueror">
-  <img align="left" alt="Ahmad | GitHub" width="32px"
+  <img align="left" width="32px"
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"
   style="background-color:white; padding:6px; border-radius:8px;" />
 </a>
 
 <a href="https://www.instagram.com/iam_ahmadd._/">
-  <img align="left" alt="Ahmad | Instagram" width="32px"
+  <img align="left" width="32px"
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
   style="background-color:white; padding:6px; border-radius:8px;" />
 </a>
 
 <a href="https://twitter.com/AhmadIs82802834">
-  <img align="left" alt="Ahmad | Twitter" width="32px"
+  <img align="left" width="32px"
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"
   style="background-color:white; padding:6px; border-radius:8px;" />
 </a>
