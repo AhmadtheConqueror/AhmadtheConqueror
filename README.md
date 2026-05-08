@@ -35,14 +35,13 @@
 <h2>📜 Certifications:</h2>
 
 - <b>Getting Started with Microsoft Excel — Coursera</b>  
-  - [View Certificate](./certificates/Coursera LWZKZCMRQNBW(1).pdf)
+  <a href="./certificates/Coursera LWZKZCMRQNBW.pdf">View Certificate</a>
 
 - <b>Work Smarter, Not Harder: Time Management for Personal & Professional Productivity — Coursera</b>  
-  - [View Certificate](./certificates/Coursera RWBUDMH4P5K9(1).pdf)
+  <a href="./certificates/Coursera RWBUDMH4P5K9.pdf">View Certificate</a>
 
 - <b>Creating a Portfolio Using Weebly — Coursera</b>  
-  - [View Certificate](./certificates/Coursera RW4NKKTHQCMU(1).pdf)
-
+  <a href="./certificates/Coursera RW4NKKTHQCMU.pdf">View Certificate</a>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Ahmad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
