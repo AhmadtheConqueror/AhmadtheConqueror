@@ -44,10 +44,10 @@
   <a href="./certificates/Coursera RW4NKKTHQCMU.pdf">View Certificate</a>
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Ahmad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ahmad | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Ahmad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Ahmad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ahmad | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color:white; padding:4px; border-radius:6px;" />][linkedin]
+[<img align="left" alt="Ahmad | GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="background-color:white; padding:4px; border-radius:6px;" />][github]
+[<img align="left" alt="Ahmad | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="background-color:white; padding:4px; border-radius:6px;" />][instagram]
+[<img align="left" alt="Ahmad | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="background-color:white; padding:4px; border-radius:6px;" />][twitter]
 
 <br/>
 <br/>
