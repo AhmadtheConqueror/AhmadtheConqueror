@@ -42,17 +42,33 @@
 
 - <b>Creating a Portfolio Using Weebly — Coursera</b>  
   <a href="./certificates/Coursera RW4NKKTHQCMU.pdf">View Certificate</a>
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Ahmad | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color:white; padding:4px; border-radius:6px;" />][linkedin]
-[<img align="left" alt="Ahmad | GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="background-color:white; padding:4px; border-radius:6px;" />][github]
-[<img align="left" alt="Ahmad | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="background-color:white; padding:4px; border-radius:6px;" />][instagram]
-[<img align="left" alt="Ahmad | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="background-color:white; padding:4px; border-radius:6px;" />][twitter]
+<h2>🤳 Connect with me:</h2>
+
+<a href="https://www.linkedin.com/in/ahmad-isah-bello-142214283">
+  <img align="left" alt="Ahmad | LinkedIn" width="28px"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+  style="background-color:white; padding:5px; border-radius:6px;" />
+</a>
+
+<a href="https://github.com/AhmadtheConqueror">
+  <img align="left" alt="Ahmad | GitHub" width="28px"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"
+  style="background-color:white; padding:5px; border-radius:6px;" />
+</a>
+
+<a href="https://www.instagram.com/iam_ahmadd._/">
+  <img align="left" alt="Ahmad | Instagram" width="28px"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
+  style="background-color:white; padding:5px; border-radius:6px;" />
+</a>
+
+<a href="https://twitter.com/AhmadIs82802834">
+  <img align="left" alt="Ahmad | Twitter" width="28px"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"
+  style="background-color:white; padding:5px; border-radius:6px;" />
+</a>
 
 <br/>
 <br/>
-
-[twitter]: https://twitter.com/AhmadIs82802834
-[github]: https://github.com/AhmadtheConqueror
-[instagram]: https://www.instagram.com/iam_ahmadd._/
-[linkedin]: https://www.linkedin.com/in/ahmad-isah-bello-142214283
+<br/>
