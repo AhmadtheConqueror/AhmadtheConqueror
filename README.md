@@ -27,7 +27,7 @@
       <h3>University Clearance System</h3>
       <p>A web-based clearance portal for graduating students.</p>
       <p>Supports student registration, sequential departmental approvals, staff dashboards, clearance progress tracking, and final clearance form generation.</p>
-      <p><b>Repository:</b><br/></p>
+      <p><b>Repository:</b><br/>https://github.com/AhmadtheConqueror/NileUniversityClearanceSystem</p>
     </td>
     <td width="33%">
       <h3>Job CV / Job Matching Application</h3>
