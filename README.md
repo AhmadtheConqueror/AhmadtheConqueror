@@ -51,13 +51,13 @@
 <h2>📊 System Analysis & Design</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Use%20Case%20Diagrams-1E3A8A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Activity%20Diagrams-1E3A8A?style=flat-square" />
-  <img src="https://img.shields.io/badge/ER%20Diagrams-1E3A8A?style=flat-square" />
-  <img src="https://img.shields.io/badge/SRS-1E3A8A?style=flat-square" />
-  <img src="https://img.shields.io/badge/System%20Design-1E3A8A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database%20Design-1E3A8A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Workflow%20Modeling-1E3A8A?style=flat-square" />
+  <code>Use Case Diagrams</code>
+  <code>Activity Diagrams</code>
+  <code>ER Diagrams</code>
+  <code>SRS</code>
+  <code>System Design</code>
+  <code>Database Design</code>
+  <code>Workflow Modeling</code>
 </p>
 
 <h2>📜 Certifications</h2>
