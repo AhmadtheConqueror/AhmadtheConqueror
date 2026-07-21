@@ -42,11 +42,7 @@
   </tr>
 </table>
 
-<h2>🧩 C# (.NET Projects)</h2>
 
-- Project Placeholder 1  
-- Project Placeholder 2  
-- Project Placeholder 3  
 
 <h2>📊 System Analysis & Design</h2>
 
