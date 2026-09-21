@@ -87,22 +87,24 @@ I build full-stack applications, AI-powered tools, and data-driven systems that 
 <h3>🧠 ResolveAI</h3>
 
 <p>
-AI-assisted incident and service management platform designed to support structured issue reporting, assignment, resolution, and operational decision-making.
+AI-assisted incident and service management platform supporting the complete incident
+lifecycle from employee reporting through triage, assignment, technical resolution,
+closure, analytics, and audit tracking.
 </p>
 
 <p>
-Includes:
+<b>Core capabilities:</b>
 </p>
 
 <ul>
   <li>Employee, Technician, Manager and Administrator workflows</li>
   <li>Role-Based Access Control (RBAC)</li>
-  <li>Incident triage, assignment and resolution workflows</li>
-  <li>SLA monitoring and notifications</li>
-  <li>Audit history and operational analytics</li>
+  <li>Incident triage, prioritization and assignment</li>
+  <li>SLA monitoring and notification workflows</li>
   <li>AI-assisted incident triage and resolution recommendations</li>
-  <li>JWT authentication and secure API architecture</li>
-  <li>Production PostgreSQL database</li>
+  <li>Operational dashboards and analytics</li>
+  <li>Audit history and incident comments</li>
+  <li>JWT authentication and PostgreSQL persistence</li>
 </ul>
 
 <p>
@@ -116,12 +118,27 @@ Vercel • Render
 </p>
 
 <p>
-<a href="https://resolve-ai-rosy-gamma.vercel.app">
-🌐 Live Application
-</a>
+  <a href="https://resolve-ai-rosy-gamma.vercel.app">
+    🌐 Live Demo
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/AhmadtheConqueror/ResolveAI">
+    💻 Source Code
+  </a>
 </p>
 
-<p><i>Source repository currently private.</i></p>
+<h4>🔐 Demo Access</h4>
+
+<pre>
+Email: demo@resolveai.com
+Password: demoadmin123
+Role: Admin
+</pre>
+
+<p>
+The demo account is provided for portfolio evaluation and allows visitors to explore
+ResolveAI's workflow, dashboards, user management, analytics, and AI-assisted features.
+</p>
 
 </td>
 
