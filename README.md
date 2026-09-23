@@ -5,7 +5,8 @@ Software Engineering Student | Full-Stack Developer | AI Application Developer |
 </h3>
 
 <p align="center">
-I build full-stack applications, AI-powered tools, and data-driven systems that solve practical business and operational problems.
+I design and build full-stack applications, AI-assisted platforms, data-driven systems,
+and workflow solutions for practical business, operational, and engineering problems.
 </p>
 
 ---
@@ -18,7 +19,7 @@ I build full-stack applications, AI-powered tools, and data-driven systems that 
 - 🏢 IT Intern at Oando Energy Resources Nigeria Limited
 - 🤖 Building AI-assisted applications using Gemini and modern web technologies
 - 🧠 Interested in developing scalable systems for business, energy, operations, and social-impact challenges
-- 🌱 Currently expanding my skills in Python backend development, FastAPI, Next.js, cloud deployment, and AI systems
+- 🌱 Currently expanding my skills in AI systems, industrial data integration, cloud architecture, workflow automation, and scalable backend engineering
 
 ---
 
@@ -50,9 +51,10 @@ I build full-stack applications, AI-powered tools, and data-driven systems that 
 <h3>Backend & APIs</h3>
 
 <p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
@@ -70,6 +72,7 @@ I build full-stack applications, AI-powered tools, and data-driven systems that 
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-333333?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -81,7 +84,65 @@ I build full-stack applications, AI-powered tools, and data-driven systems that 
 <h2>🚀 Featured Projects</h2>
 
 <table>
+
 <tr>
+
+<td width="50%" valign="top">
+
+<h3>⚙️ AssetGuard — Industrial Condition Monitoring Platform</h3>
+
+<p>
+Full-stack industrial telemetry and condition-monitoring MVP designed to demonstrate how
+sensor data can move from an external gateway into a monitoring, alerting, maintenance,
+and AI-assisted engineering workflow.
+</p>
+
+<p>
+The system simulates a real industrial architecture in which sensor readings are ingested,
+stored as historical telemetry, statistically evaluated for changing operating behaviour,
+and escalated into operational alerts when persistent anomalies are detected.
+</p>
+
+<p><b>Core capabilities:</b></p>
+
+<ul>
+  <li>Machine-to-machine telemetry ingestion with API-key authentication</li>
+  <li>Batch sensor ingestion with retry-safe duplicate protection</li>
+  <li>Live equipment telemetry dashboards and sensor trend visualization</li>
+  <li>Adaptive statistical condition monitoring using median, MAD, IQR, persistence and trend analysis</li>
+  <li>Condition states: Normal, Watch, Anomalous and Insufficient Data</li>
+  <li>Persistent-anomaly operational alerting with cooldown and duplicate prevention</li>
+  <li>AI-assisted engineering analysis using Google Gemini</li>
+  <li>Maintenance planning and workflow tracking</li>
+  <li>Role-Based Access Control for Admin, Engineer, Technician and Viewer roles</li>
+  <li>Secure HttpOnly-cookie authentication with a Next.js BFF architecture</li>
+  <li>PostgreSQL persistence and Alembic database migrations</li>
+</ul>
+
+<p>
+<b>Architecture:</b><br/>
+Sensor / Gateway → Ingestion API → PostgreSQL → Condition Monitoring → Operational Alerts → Optional AI Analysis → Engineer Workflow
+</p>
+
+<p>
+<b>Stack:</b><br/>
+Next.js • React • TypeScript • FastAPI • Python • PostgreSQL • SQLAlchemy • Alembic • Gemini API
+</p>
+
+<p>
+<b>Current Status:</b><br/>
+Local development MVP. Industrial telemetry is currently generated through a gateway simulator.
+The ingestion architecture is designed so that a real PLC, IoT gateway, historian, OPC UA source,
+MQTT integration, or vendor API can replace the simulator in a future implementation.
+</p>
+
+<p>
+  <a href="https://github.com/AhmadtheConqueror/AssetGuard">
+    💻 Source Code
+  </a>
+</p>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -93,9 +154,7 @@ lifecycle from employee reporting through triage, assignment, technical resoluti
 closure, analytics, and audit tracking.
 </p>
 
-<p>
-<b>Core capabilities:</b>
-</p>
+<p><b>Core capabilities:</b></p>
 
 <ul>
   <li>Employee, Technician, Manager and Administrator workflows</li>
@@ -143,17 +202,20 @@ ResolveAI's workflow, dashboards, user management, analytics, and AI-assisted fe
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h3>🤖 AI Career Assistant</h3>
 
 <p>
-AI-powered career platform that analyses CVs and job descriptions and generates structured, evidence-based career guidance.
+AI-powered career platform that analyses CVs and job descriptions and generates structured,
+evidence-based career guidance.
 </p>
 
-<p>
-Includes:
-</p>
+<p><b>Core capabilities:</b></p>
 
 <ul>
   <li>PDF, DOCX and TXT CV extraction</li>
@@ -180,10 +242,6 @@ github.com/AhmadtheConqueror/Job-Matcher
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 <h3>🎓 Nile University Online Clearance System</h3>
@@ -193,7 +251,9 @@ Web-based clearance management system for graduating students and exiting staff.
 </p>
 
 <p>
-Includes sequential departmental approvals, office-specific dashboards, clearance progress tracking, result-document uploads, approval history, authentication controls and final clearance certificate generation.
+Includes sequential departmental approvals, office-specific dashboards, clearance progress
+tracking, result-document uploads, approval history, authentication controls and final
+clearance certificate generation.
 </p>
 
 <p>
@@ -210,7 +270,11 @@ github.com/AhmadtheConqueror/NileUniversityClearanceSystem
 
 </td>
 
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+
+<td colspan="2" valign="top">
 
 <h3>📦 SmartStock Inventory Management System</h3>
 
@@ -219,7 +283,8 @@ Full-stack inventory and financial-record management application for small-busin
 </p>
 
 <p>
-Supports products, sales, customers, debts, expenses, receipts, checkout workflows, database persistence and business reporting.
+Supports products, sales, customers, debts, expenses, receipts, checkout workflows,
+database persistence and business reporting.
 </p>
 
 <p>
@@ -237,6 +302,7 @@ github.com/AhmadtheConqueror/Drink-Inventory
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -254,6 +320,8 @@ github.com/AhmadtheConqueror/Drink-Inventory
   <code>REST API Design</code>
   <code>Authentication & Authorization</code>
   <code>Role-Based Access Control</code>
+  <code>API Integration</code>
+  <code>System Architecture</code>
   <code>Testing</code>
   <code>Deployment</code>
 </p>
@@ -265,7 +333,8 @@ github.com/AhmadtheConqueror/Drink-Inventory
 <h3>Oando Energy Resources Nigeria Limited — IT Intern</h3>
 
 <p>
-Supporting corporate IT operations, user support and digital solutions while gaining hands-on exposure to enterprise technology environments.
+Supporting corporate IT operations, user support and digital solutions while gaining
+hands-on exposure to enterprise technology environments.
 </p>
 
 <ul>
@@ -294,6 +363,7 @@ Supporting corporate IT operations, user support and digital solutions while gai
 <h2>🤝 Connect With Me</h2>
 
 <p>
+
 <a href="https://www.linkedin.com/in/ahmad-isah-bello-142214283">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -309,4 +379,5 @@ Supporting corporate IT operations, user support and digital solutions while gai
 <a href="https://twitter.com/AhmadIs82802834">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
+
 </p>
